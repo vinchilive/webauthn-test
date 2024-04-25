@@ -1,0 +1,5 @@
+*.d.ts
+build
+node_modules
+src/generated/types.ts
+ssl
